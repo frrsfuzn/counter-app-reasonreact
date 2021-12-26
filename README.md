@@ -1,6 +1,6 @@
 # Counter App with ReasonReact 
 
-This is just a simple counter app made with ReasonReact. To run this make sure you have already install BuckleScript's bsb
+This is just a simple counter app made with ReasonReact and styling with tailwindcss. To run this make sure you have already install BuckleScript's bsb. If you haven't install, use following command to install BuckleScript's bsb
 ```
 npm install --global bs-platform
 ```
